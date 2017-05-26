@@ -1,0 +1,99 @@
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\ProjetoTerca.csprojResolveAssemblyReference.cache
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Terça\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\Terça\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\Terça\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\Terça\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\Terça\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\Terça\WebApplication2\WebApplication2\bin\EntityFramework.dll
+E:\Terça\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+E:\Terça\WebApplication2\WebApplication2\bin\EntityFramework.xml
+E:\Terça\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+E:\Terça\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+E:\Terça\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+E:\Terça\WebApplication2\WebApplication2\obj\Debug\ProjetoTerca.csprojResolveAssemblyReference.cache
+E:\Terça\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Terça\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\MVisualStudio\WebApplication2\WebApplication2\obj\Debug\ProjetoTerca.csprojResolveAssemblyReference.cache
+E:\MVisualStudio\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\MVisualStudio\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
